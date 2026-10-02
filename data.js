@@ -830,18 +830,5 @@ const menuItems = [
         sizes: [
             { nameAr: "عادي", nameEn: "Regular", priceAr: "18.00 ريال", priceEn: "18.00 SAR", val: 18 }
         ]
-    },     {
-        category: "new", 
-        image: "assets/IMG-20251202-WA0003 (1).jpg", 
-        nameAr: "تورتا",
-        nameEn: "Cream ",
-        descAr: "",
-        descEn: "",
-        calories: "100",
-        allergensAr: "حليب - بيض - القمح",
-        allergensEn: "Milk - egg - wheat",
-        sizes: [
-            { nameAr: "عادي", nameEn: "Regular", priceAr: "1.00 ريال", priceEn: "1.00 SAR", val: 1 }
-        ]
     },
 ];
